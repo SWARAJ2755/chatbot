@@ -1,0 +1,1 @@
+FitBot is an AI-powered fitness assistant with a sleek gym website. It offers smart workout plans, progress tracking, and scheduling tools. Built with modern web tech for a seamless fitness experience—perfect for users and gym owners alike.
